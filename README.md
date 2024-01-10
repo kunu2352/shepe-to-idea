@@ -1,24 +1,40 @@
-# README
+# Shape to Ideaアイデアを形に
+​
+## サイト概要
+### サイトテーマ
+発明家を生み出すことが目的です。
+アイデアを世界中に拡散させ形にできるようなサポートをします。
+主に「アイデアを広げる」、「アイデアを得る」、「アイデアの持ち主とコミュニケーションをとる」の3つを目的としたアイデア共有コミュニティサイトです。
+<br>※アイデアを拡散するにあたって、著作権では保護ができないので、サイトを見てアイデアを勝手に使用することも可能です。　
+そのため、特許申請のサポートも行える体制をとります。
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+### テーマを選んだ理由
+以前、テレビで視聴しました「主婦の人が家事道アイデアを形にし何億円も売り上げた」という話から今回のテーマを思い浮かべました。<br>
+何かアイデアを浮かんでも、形にできる人は限られていると思います。
+一番大切なのは本人の意思だとは思います。アイデアを形にするのにはお金や状況、行動力と対価を考えると行動せずに放置する。
+これが普通なのかと思います。(少なくとも私や私の周りはそうでした)
+上記を踏まえてアイデアを形にするのを不可能や面倒に感じさせないようにしたいです。
+そんな状況を変えたいと思い今回のテーマを選択しました。
 
-Things you may want to cover:
+### ターゲットユーザ
+1.企業(購入、販売)<br>
+2.アイデアを思い浮かんだ人たち、こんなものがあったらいいなと思う人たち。<br>
+3.自身でアイデアを形にしたいと考えている人たち
 
-* Ruby version
+### 主な利用シーン
+自身のアイデアを形に形にしてもらいたい時。<br>
+自身のアイデアでお金儲けをしてみたいと思う時<br>
+企画をする際にアイデアが思い浮かばずに悩んでいる時。
 
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+## 設計書
+<!--テーマを設定・提出する時点では不要です-->
+​
+## 開発環境
+- OS：Linux(CentOS)
+- 言語：HTML,CSS,JavaScript,Ruby,SQL
+- フレームワーク：Ruby on Rails
+- JSライブラリ：jQuery
+- IDE：Cloud9
+​
+## 使用素材
+https://www.inpit.go.jp/blob/archives/pdf/patent.pdf
