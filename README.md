@@ -32,4 +32,4 @@
 - IDE：Cloud9
 ​
 ## 使用素材
-https://www.inpit.go.jp/blob/archives/pdf/patent.pdf
+検討中
